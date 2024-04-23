@@ -10,4 +10,4 @@ This is my attempt on creating the Pacman game from scratch in Java language.
 - Restarting levels once you eat all the dots
 
 ## Work in progress:
-**- Ghosts**
+- **Ghosts**
